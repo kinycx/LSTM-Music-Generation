@@ -2,10 +2,10 @@
 Generazione di composizioni musicali utilizzando una rete neurale LSTM (Long Short-Term Memory). La rete si addestrerà con file MIDI
 
 ## Requirements
-Python 3.x
-Keras
-music21
-Google Colab o una buona GPU
+- Python 3.x
+- Keras
+- music21
+- Google Colab o una buona GPU
 
 ## Librerie utilizzate e dati
 Invece di utilizzare interamente i file MIDI, li elaboreremo per ottenere solo le informazioni utili allo scopo e scartare il resto. 
