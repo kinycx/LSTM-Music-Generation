@@ -1,5 +1,5 @@
 # LSTM-Music-Generation
-Generazione di composizioni musicali utilizzando una rete neurale LSTM (Long Short-Term Memory). La rete si addestrerà con file MIDI
+Generazione di composizioni musicali utilizzando una rete neurale LSTM (Long Short-Term Memory). La rete si addestrerà con file MIDI e sara' in grado di generarne nuovi.
 
 ## Requirements
 - Python 3.x
