@@ -26,6 +26,7 @@ Se non si utilizza colab inserire **midi_files.zip** nella directory.
 ![model](https://github.com/kinycx/LSTM-Music-Generation/blob/main/model.png)
 
 ## Addestrare il Modello
+0. Aprire il Notebook interattivo **LSTMusicGeneration.ipynb** su colab o in locale
 1. Caricare un file col nome **midi_files.zip** contenente i file .mid con i quali si vuole addestrare la rete
 2. Addestrare il modello fino a raggiungere un valore di **loss** inferiore a 0.7
 3. Nella sezione *Generazione Musica* del Notebook modificare il percorso della variabile **weights** in base a quale modello si voglia utilizzare per generare una composizione
